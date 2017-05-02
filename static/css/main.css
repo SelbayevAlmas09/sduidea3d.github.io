@@ -3128,6 +3128,31 @@ button {
   width: 20%;
   margin: -30px auto 0;
 }
+.works-line{
+  margin-bottom: 70px;
+
+}
+.works-item{
+  float: left;
+  width: 48%;
+  height: 580px;
+  margin-right: 2%;
+  overflow: hidden;
+}
+.works-text{
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+.works-img{
+  width:100%;
+}
+.works-cont{
+  text-align: center;
+  margin: 0 auto;
+}
+
+
+
 
 @media screen and (max-width: 1200px) {
   .rules-text {
@@ -3161,3 +3186,5 @@ button {
     line-height: 24px;
   }
 }
+
+
